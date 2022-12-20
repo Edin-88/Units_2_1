@@ -1,0 +1,30 @@
+* {
+  
+    box-sizing: border-box;
+}
+
+li {
+    line-height: 1.5em;
+}
+
+.em_style {
+    font-size: 0.8em;
+    
+}
+
+ul {
+    padding-inline-start: 1.2em;
+}
+
+section {
+    font-size: 1rem;
+    border: solid 2px black;
+}
+
+.font-size-1 {
+    font-size: 1.9rem;
+}
+
+.no_list_style{
+    list-style: none;
+}
